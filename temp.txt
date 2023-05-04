@@ -1,18 +1,42 @@
-Fig 4.1 : Code of K-means clustering
-Fig 4.2 : Code of Watershed based segmentation
-Fig 4.3 : Code of Edge Based Segmentation
-Fig 4.4 : How segmentation mask is generated using UNET
-Fig 4.5 : Pixel Accuracy values of Conventional techniques on different datasets
-Fig 4.6 : F1 score values of Conventional techniques on different datasets
-Fig 4.7 : IOU values of Conventional techniques on different datasets
-Fig 4.8 : Graph of Pixel Accuracy values
-Fig 4.9 : Graph of F1 Score values
-Fig 4.10 : Graph of IOU values
-Fig 4.11 : Basic diagram of the clustering model
-Fig 4.12: Overview of Clustering
-Fig 4.13 : Visualisation of HOG Feature Extraction
-Fig 4.14 : Visualisation of SIFT Features
+1. What do you mean by Convolutional Neural Network?
+
+2. Why do we prefer Convolutional Neural networks (CNN) over Artificial Neural networks (ANN) for image data as input?
+
+3. Explain the different layers in CNN.
+Login Required
+4. Explain the significance of the RELU Activation function in Convolution Neural Network.
+Login Required
+5. Why do we use a Pooling Layer in a CNN?
+Login Required
+6. What is the size of the feature map for a given input size image, Filter Size, Stride, and Padding amount?
+Login Required
+7. An input image has been converted into a matrix of size 12 X 12 along with a filter of size 3 X 3 with a Stride of 1. Determine the size of the convoluted matrix.
+Login Required
+8. Explain the terms “Valid Padding” and “Same Padding” in CNN.
+Login Required
+9. What are the different types of Pooling? Explain their characteristics.
+Login Required
+10. Does the size of the feature map always reduce upon applying the filters? Explain why or why not.
+Login Required
+11. What is Stride? What is the effect of high Stride on the feature map?
+Login Required
+12. Explain the role of the flattening layer in CNN.
+Login Required
+13. List down the hyperparameters of a Pooling Layer.
+Login Required
+14. What is the role of the Fully Connected (FC) Layer in CNN?
+Login Required
+15. Briefly explain the two major steps of CNN i.e, Feature Learning and Classification. 
+Login Required
+16. What are the problems associated with the Convolution operation and how can one resolve them?
+Login Required
+17. Let us consider a Convolutional Neural Network having three different convolutional layers in its architecture as –
+Login Required
+18. Explain the significance of “Parameter Sharing” and “Sparsity of connections” in CNN.
+Login Required
+19. Explain the role of the Convolution Layer in CNN.
+Login Required
+20. Can we use CNN to perform Dimensionality Reduction? If Yes then which layer is responsible for dimensionality reduction particularly in CNN?
 
 
-Accuracy
-based
+

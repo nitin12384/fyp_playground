@@ -1,0 +1,2 @@
+what is 
+neuron/perceptron, weight sharing, vanishing gradient, 
