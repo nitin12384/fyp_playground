@@ -1,0 +1,18 @@
+Fig 4.1 : Code of K-means clustering
+Fig 4.2 : Code of Watershed based segmentation
+Fig 4.3 : Code of Edge Based Segmentation
+Fig 4.4 : How segmentation mask is generated using UNET
+Fig 4.5 : Pixel Accuracy values of Conventional techniques on different datasets
+Fig 4.6 : F1 score values of Conventional techniques on different datasets
+Fig 4.7 : IOU values of Conventional techniques on different datasets
+Fig 4.8 : Graph of Pixel Accuracy values
+Fig 4.9 : Graph of F1 Score values
+Fig 4.10 : Graph of IOU values
+Fig 4.11 : Basic diagram of the clustering model
+Fig 4.12: Overview of Clustering
+Fig 4.13 : Visualisation of HOG Feature Extraction
+Fig 4.14 : Visualisation of SIFT Features
+
+
+Accuracy
+based
